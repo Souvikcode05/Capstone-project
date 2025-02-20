@@ -1,7 +1,7 @@
 # Project Summary
 With the rapid expansion of the streaming industry, Amazon Prime Video has become one of the leading platforms, offering a vast and diverse content library. This project aims to perform a comprehensive exploratory data analysis (EDA) on the available content to uncover trends, regional availability, and viewer preferences, enabling data-driven decision-making for optimizing content curation and audience engagement.
 
-# Dataset Overview:
+# Dataset Overview
 The dataset comprises two key files
 
 - titles.csv: Contains over 9,000 unique titles with information such as show type, genres, production countries, IMDb ratings, and release years.
