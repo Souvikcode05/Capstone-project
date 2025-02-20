@@ -10,7 +10,7 @@ The dataset comprises two key files:
 
 The dataset includes both categorical (e.g., genres, production countries) and numerical (e.g., IMDb scores, runtime) attributes, allowing for a comprehensive analysis of Amazon Prime's content library.
 
-# Analysis Approach:**
+# Analysis Approach:
 The project follows a structured exploratory data analysis (EDA) approach to uncover trends and patterns within the dataset. Various aspects such as content type distribution, regional production trends, genre popularity, and IMDb ratings are analyzed. The analysis is visualized through different types of charts and graphs, providing clear insights into the data.
 
 # Business Objective:
