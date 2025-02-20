@@ -4,9 +4,9 @@
 # Dataset Overview:
 The dataset comprises two key files:
 
-     - titles.csv: Contains over 9,000 unique titles with information such as show type, genres, production countries, IMDb ratings, and release years.
+- titles.csv: Contains over 9,000 unique titles with information such as show type, genres, production countries, IMDb ratings, and release years.
 
-     - credits.csv: Includes more than 124,000 records of actors and directors, mapping them to their respective titles.
+- credits.csv: Includes more than 124,000 records of actors and directors, mapping them to their respective titles.
 
 The dataset includes both categorical (e.g., genres, production countries) and numerical (e.g., IMDb scores, runtime) attributes, allowing for a comprehensive analysis of Amazon Prime's content library.
 
